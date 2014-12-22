@@ -35,11 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A briefe treatice of election and reprobation with certen ansvvers to the obiections of the aduersar
+
 #####Body#####
-A briefe treatice of election and reprobation with certen ansvvers to the obiections of the aduersar
+
+1. ¶ A briefe Treatiſe, with certayne Anſvvers to the Obiections of the Aduerſaries of this doctrine, vvritten by Anthonie Gylbie.
+
 #####Back#####
-A briefe treatice of election and reprobation with certen ansvvers to the obiections of the aduersar
+¶ IMPRINTED at London by Dauid Moptid, and Iohn Mather, Dwelling in Redcroſſe ſtreete nexte adioynin
 **Types of content**
 
   * There are 1 **verse** lines!
